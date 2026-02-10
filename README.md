@@ -1,5 +1,3 @@
-# OOPSBannerApp
-OOPS Banner App - Object Oriented Programming Learning Project
 echo "# OOPSBannerApp" >> README.md
 git init
 git add README.md
